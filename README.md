@@ -1,2 +1,6 @@
 # NourK
-Custom keyboard experiment
+
+ToDo:
+
+ - [ ] Create a layout
+ - [ ] Find an existing PCB
