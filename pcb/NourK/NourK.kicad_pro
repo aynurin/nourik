@@ -30,7 +30,11 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "multiple_net_names|1739900|1562100|222fc164-694c-45b0-ab40-1421a9fbbfbe|6b58bfd4-85be-43de-ba52-d2d82b15c25e",
+      "multiple_net_names|1765300|1193800|1f5bfd5e-4afb-4f60-a62b-274399f13799|907ea5f6-48a9-452a-89e2-b5c487aec203",
+      "multiple_net_names|266700|647700|d07c68cb-61b5-4573-af66-15fd177cae7c|bec84578-d211-4fe6-9890-3ae4bb81245d"
+    ],
     "meta": {
       "version": 0
     },
@@ -225,7 +229,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -326,12 +330,32 @@
       "lhs"
     ],
     [
+      "a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72",
+      "rhs"
+    ],
+    [
       "65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d",
-      "LHS Keys"
+      "RHS Keys"
     ],
     [
       "1c89782d-074f-4e09-8335-80c0fa7d6d5b",
+      "RHS LEDs"
+    ],
+    [
+      "35982165-868e-4658-9522-a5f5e48d623a",
+      "STM32L082 Setup"
+    ],
+    [
+      "dde57e63-c5c4-4a9a-b631-b35a012e5152",
+      "LHS Keys"
+    ],
+    [
+      "24cae634-2cfc-4504-a6b0-3a5c7164d797",
       "LHS LEDs"
+    ],
+    [
+      "c5a38608-07fc-4481-a45a-399084506924",
+      "STM32L082 Setup"
     ]
   ],
   "text_variables": {}
