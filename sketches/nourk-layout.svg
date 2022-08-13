@@ -168,15 +168,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="cm"
      showgrid="false"
-     inkscape:zoom="0.9434288"
-     inkscape:cx="608.41899"
-     inkscape:cy="186.02358"
+     inkscape:zoom="2.6684196"
+     inkscape:cx="1501.4505"
+     inkscape:cy="221.66679"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer9"
      units="mm"
      fit-margin-top="10.5"
      fit-margin-left="10.5"
@@ -1351,6 +1351,386 @@
        id="text46178"
        style="display:inline;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:150000;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(10830840,-53003597)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="draft">
+    <rect
+       style="display:inline;fill:none;stroke:#00754f;stroke-width:200000;stop-color:#000000"
+       id="rect2093"
+       width="68380008"
+       height="18800002"
+       x="370508512"
+       y="50796132" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-9-1-0"
+       cx="64616004"
+       cy="-370408512"
+       r="500000.03"
+       transform="rotate(90)" />
+    <rect
+       style="display:inline;fill:none;stroke:#00754f;stroke-width:200000;stop-color:#000000"
+       id="rect2093-3"
+       width="71380008"
+       height="21800002"
+       x="369008544"
+       y="49296132" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6"
+       cx="370408512"
+       cy="69696128"
+       r="500000.03" />
+    <g
+       id="g5698"
+       transform="translate(17213888,27204356)">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+         id="rect2765"
+         width="10000001"
+         height="10000000"
+         x="411674624"
+         y="18954652" />
+      <rect
+         style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+         id="rect2765-2"
+         width="10000001"
+         height="7000000.5"
+         x="411674624"
+         y="21954652" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82223e+06px;line-height:1.25;font-family:sans-serif;stroke-width:264583"
+         x="413900384"
+         y="26462188"
+         id="text3940"><tspan
+           sodipodi:role="line"
+           id="tspan3938"
+           style="stroke-width:264583"
+           x="413900384"
+           y="26462188">USB</tspan></text>
+    </g>
+    <g
+       id="g7661"
+       transform="rotate(90,380305910,22103211)">
+      <rect
+         style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+         id="rect5722"
+         width="12000001"
+         height="12400001"
+         x="407355584"
+         y="19500620" />
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+         id="rect5722-3"
+         width="3000000.2"
+         height="6500000.5"
+         x="404355584"
+         y="22450620" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82223e+06px;line-height:1.25;font-family:sans-serif;stroke-width:264583"
+         x="410093088"
+         y="26708156"
+         id="text6752"><tspan
+           sodipodi:role="line"
+           id="tspan6750"
+           style="stroke-width:264583"
+           x="410093088"
+           y="26708156">TRRS</tspan></text>
+    </g>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-9"
+       cx="423748512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-2"
+       cx="421208512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-0"
+       cx="418668512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-6"
+       cx="416128544"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-8"
+       cx="413588512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-92"
+       cx="411048512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-66"
+       cx="408508512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-49"
+       cx="405968544"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-5"
+       cx="403428512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-04"
+       cx="400888480"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-87"
+       cx="398348512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-17"
+       cx="395808512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-27"
+       cx="393268512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-22"
+       cx="390728544"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-61"
+       cx="388188480"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-06"
+       cx="385648512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-15"
+       cx="383108512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-94"
+       cx="380568512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-90"
+       cx="378028512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-91"
+       cx="375488512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-7"
+       cx="372948480"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-7"
+       cx="431368512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-9-1-8"
+       cx="428828512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-2-1-5"
+       cx="426288512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-9-1"
+       cx="423748512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-2-1"
+       cx="421208512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-9-1-0-3"
+       cx="67156008"
+       cy="-370408512"
+       r="500000.03"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-9-1-0-8"
+       cx="62076004"
+       cy="-438988512"
+       r="500000.03"
+       transform="rotate(90)" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-2-1-8"
+       cx="426288512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-0-5"
+       cx="418668512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-6-9"
+       cx="416128544"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-8-7"
+       cx="413588512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-92-7"
+       cx="411048512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-66-6"
+       cx="408508512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-49-7"
+       cx="405968544"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-5-3"
+       cx="403428512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-04-6"
+       cx="400888480"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-87-5"
+       cx="398348512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-17-6"
+       cx="395808512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-27-3"
+       cx="393268512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-22-9"
+       cx="390728544"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-61-4"
+       cx="388188480"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-06-8"
+       cx="385648512"
+       cy="50696132"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-15-1"
+       cx="438988512"
+       cy="67156000"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-94-2"
+       cx="438988512"
+       cy="64616004"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-90-9"
+       cx="438988512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-91-3"
+       cx="436448512"
+       cy="69696128"
+       r="500000.03" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:200000;stop-color:#000000"
+       id="path2264-6-9-7-9"
+       cx="433908512"
+       cy="69696128"
+       r="500000.03" />
   </g>
   <g
      inkscape:groupmode="layer"

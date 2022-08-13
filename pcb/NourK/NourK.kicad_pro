@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.85,
-          "width": 0.2
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -100,20 +100,20 @@
         "zones_intersect": "error"
       },
       "rules": {
-        "allow_blind_buried_vias": false,
+        "allow_blind_buried_vias": true,
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_copper_edge_clearance": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.18,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.15,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997,
+        "min_via_diameter": 0.35,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
@@ -381,7 +381,6 @@
         "microvia_drill": 0.1,
         "name": "PWR",
         "nets": [
-          "+3V3",
           "GND",
           "VBUS",
           "VCC"
@@ -458,8 +457,8 @@
       "lhs"
     ],
     [
-      "7a016abc-f2b5-4807-b80d-23c0c0855ef0",
-      "RHS Core"
+      "a6af0249-c8eb-4b80-99e2-1d85a2fc3025",
+      "core"
     ],
     [
       "a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72",
@@ -474,16 +473,12 @@
       "RHS LEDs"
     ],
     [
-      "22b58b63-c203-4dcb-aa41-f8691afab525",
-      "LHS Core"
+      "24cae634-2cfc-4504-a6b0-3a5c7164d797",
+      "LHS LEDs"
     ],
     [
       "dde57e63-c5c4-4a9a-b631-b35a012e5152",
       "LHS Keys"
-    ],
-    [
-      "24cae634-2cfc-4504-a6b0-3a5c7164d797",
-      "LHS LEDs"
     ]
   ],
   "text_variables": {}

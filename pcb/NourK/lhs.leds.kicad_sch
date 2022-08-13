@@ -1083,7 +1083,7 @@
   )
   (bus_entry (at 262.89 24.13) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid fa967d3e-f583-4928-af36-0458466196dd)
+    (uuid fa967d3e-f583-4928-af36-0458466196de)
   )
   (bus_entry (at 137.16 147.32) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
