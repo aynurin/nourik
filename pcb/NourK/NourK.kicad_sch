@@ -990,7 +990,7 @@
       (reference "SW54") (unit 1) (value "SPACE") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/46e38ee3-1d09-41fa-832b-3f172d8570ac"
-      (reference "U1") (unit 1) (value "STM32L082CZYx") (footprint "Package_CSP:ST_WLCSP-49_Die447")
+      (reference "U1") (unit 1) (value "STM32L082CZYx") (footprint "Nour_KB:ST_WLCSP-49_Die447")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/5a8e3495-00e4-4584-8cb0-19d63767034b"
       (reference "U2") (unit 1) (value "AP2112K-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")

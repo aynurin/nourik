@@ -4,8 +4,8 @@
   (descr "LTRBR37G-4R4S-0125-0-2-R18-3")
   (tags "LED")
   (attr smd)
-  (fp_text reference "LED**" (at 0.35 -0.025) (layer "F.SilkS")
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+  (fp_text reference "LED**" (at 0 -1.2 180) (layer "F.SilkS")
+    (effects (font (size 0.63 0.63) (thickness 0.127)))
     (tstamp 54773fae-5325-4734-8936-1a43ef137de6)
   )
   (fp_text value "LTRBR37G4R4S012502R18" (at 0.35 -0.025) (layer "F.SilkS") hide
