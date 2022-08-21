@@ -4,7 +4,7 @@
   (descr "QFN-48")
   (tags "Integrated Circuit")
   (attr smd)
-  (fp_text reference "IC**" (at 0 0) (layer "F.SilkS")
+  (fp_text reference "IC**" (at 0 -5.08) (layer "F.SilkS")
     (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 9f840973-3d0e-4154-af2c-8758e1948d71)
   )
