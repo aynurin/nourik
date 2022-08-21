@@ -782,6 +782,12 @@
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/1c89782d-074f-4e09-8335-80c0fa7d6d5b/adfa62ae-ac79-42a8-bfa2-e35b456b0fb7"
       (reference "D84") (unit 1) (value "LED_UG_3_3") (footprint "Nour_KB:LTRBR37G4R4S012502R18")
     )
+    (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/24cae634-2cfc-4504-a6b0-3a5c7164d797/cd882587-9a81-47e5-b742-9355d7f6856e"
+      (reference "D85") (unit 1) (value "LED_UG_1_2") (footprint "Nour_KB:LTRBR37G4R4S012502R18")
+    )
+    (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/24cae634-2cfc-4504-a6b0-3a5c7164d797/141f620f-4951-4227-a119-d745173c2886"
+      (reference "D86") (unit 1) (value "LED_UG_2_3") (footprint "Nour_KB:LTRBR37G4R4S012502R18")
+    )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/5389d226-31a4-4477-9cf3-3b45eabdd8ab"
       (reference "FB1") (unit 1) (value "FerriteBead") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
@@ -840,154 +846,154 @@
       (reference "SW2") (unit 1) (value "SW_SPST_G") (footprint "Nour_KB:EVQP9102W")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/1c98fb25-e46a-42d6-a4ae-622578a50712"
-      (reference "SW3") (unit 1) (value "Y") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW3") (unit 1) (value "Y") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/a8daa26f-3cb7-473c-9593-52bffdf5fd28"
-      (reference "SW4") (unit 1) (value "H") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW4") (unit 1) (value "H") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/95b5a0f3-7ffa-4091-b8fa-5579b5399e23"
-      (reference "SW5") (unit 1) (value "N") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW5") (unit 1) (value "N") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/bba4c9ed-bbc0-4ca9-a4d1-88364afc47fb"
-      (reference "SW6") (unit 1) (value "SPACE") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW6") (unit 1) (value "SPACE") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/d503e740-f903-4f54-82f6-c60da42195ab"
-      (reference "SW7") (unit 1) (value "U") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW7") (unit 1) (value "U") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/1467b20d-12a6-4fd6-8bd4-6a38b391ff80"
-      (reference "SW8") (unit 1) (value "J") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW8") (unit 1) (value "J") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/fa4b9930-de3f-435f-a686-02b7163c415b"
-      (reference "SW9") (unit 1) (value "M") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW9") (unit 1) (value "M") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/077a15b1-f5f5-4d99-9b75-27f7a197db96"
-      (reference "SW10") (unit 1) (value "LAYER") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW10") (unit 1) (value "LAYER") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/1e652cff-dbc9-4948-bc11-081332cda29b"
-      (reference "SW11") (unit 1) (value "I") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW11") (unit 1) (value "I") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/8fc7a25e-cd78-4b9d-b83d-24101b1cdee7"
-      (reference "SW12") (unit 1) (value "K") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW12") (unit 1) (value "K") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/4b8ff953-c79f-4ed9-99f7-b831b535725a"
-      (reference "SW13") (unit 1) (value ",") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW13") (unit 1) (value ",") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/18f0d98c-e5b8-4aea-bf49-afb51a4e0392"
-      (reference "SW14") (unit 1) (value "LAYER") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW14") (unit 1) (value "LAYER") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/e2400af6-369c-4c23-a159-2195f1cdfcb4"
-      (reference "SW15") (unit 1) (value "O") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW15") (unit 1) (value "O") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/53f48ba0-bdfd-40f8-8b28-8c8d3e48bea9"
-      (reference "SW16") (unit 1) (value "L") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW16") (unit 1) (value "L") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/1140cd97-f6cc-4a79-8dc4-b67ae8ac3758"
-      (reference "SW17") (unit 1) (value ".") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW17") (unit 1) (value ".") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/f7e756b2-e732-4a10-a052-6b0958cd7e9c"
-      (reference "SW18") (unit 1) (value "LAYER") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW18") (unit 1) (value "LAYER") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/13f7db81-165b-4990-b4bf-ab049cbf9785"
-      (reference "SW19") (unit 1) (value "P") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW19") (unit 1) (value "P") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/a8cb24f9-a197-4232-92d7-6da755fa7fb9"
-      (reference "SW20") (unit 1) (value ";") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW20") (unit 1) (value ";") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/e7c61645-1f8f-49a7-810a-19a54b0e74b4"
-      (reference "SW21") (unit 1) (value "/") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW21") (unit 1) (value "/") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/7013b555-1039-4032-bf5e-ac85d1b6d201"
-      (reference "SW22") (unit 1) (value "RCTRL") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW22") (unit 1) (value "RCTRL") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/2314e0af-c46d-4528-ab67-7354b8d0d639"
-      (reference "SW23") (unit 1) (value "[") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW23") (unit 1) (value "[") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/338fbb3b-aa8f-46c8-9d05-1158c28097cc"
-      (reference "SW24") (unit 1) (value "'") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW24") (unit 1) (value "'") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/c19382d6-eb71-4eef-8377-c521824cdb07"
-      (reference "SW25") (unit 1) (value "RSHIFT") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW25") (unit 1) (value "RSHIFT") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/9f0b0f70-09f0-440c-9388-3f6093d3a53a"
-      (reference "SW26") (unit 1) (value "]") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW26") (unit 1) (value "]") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d/fbc3fbbf-e185-42dc-af05-e0a6fc94d0b5"
-      (reference "SW27") (unit 1) (value "ENTER") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW27") (unit 1) (value "ENTER") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/5b9f88c5-5c98-4e4d-83f4-bcb0a84cdd7e"
-      (reference "SW30") (unit 1) (value "ESCAPE") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW30") (unit 1) (value "ESCAPE") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/25b8e838-fd56-4a6b-a466-9c78dfa339b4"
-      (reference "SW31") (unit 1) (value "OSKEY") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW31") (unit 1) (value "OSKEY") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/a1208f41-337e-4f62-bd36-d9478e157323"
-      (reference "SW32") (unit 1) (value "TAB") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW32") (unit 1) (value "TAB") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/ba95ad50-7b88-4dd7-90f9-1f3191d0fd5a"
-      (reference "SW33") (unit 1) (value "GRAVE") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW33") (unit 1) (value "GRAVE") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/c4bfc89f-122c-4289-b136-a2094cfe03f7"
-      (reference "SW34") (unit 1) (value "LEFT_SHIFT") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW34") (unit 1) (value "LEFT_SHIFT") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/89464f40-c6e0-4f34-878d-fe2cf8c76989"
-      (reference "SW35") (unit 1) (value "Q") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW35") (unit 1) (value "Q") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/e5124fa5-2771-4c4f-be7a-3c2ad44f3fd0"
-      (reference "SW36") (unit 1) (value "A") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW36") (unit 1) (value "A") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/5ca18ef9-ef42-4934-8f4f-1975d555fd42"
-      (reference "SW37") (unit 1) (value "Z") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW37") (unit 1) (value "Z") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/a3909ad9-2670-4c5f-be0c-cc41d6ac676d"
-      (reference "SW38") (unit 1) (value "LEFT_CTRL") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW38") (unit 1) (value "LEFT_CTRL") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/6880ad2c-011f-4f1c-9217-40ab5f8016ca"
-      (reference "SW39") (unit 1) (value "W") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW39") (unit 1) (value "W") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/5ad8f11f-8356-4cf9-94b9-aaeeb9625a23"
-      (reference "SW40") (unit 1) (value "S") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW40") (unit 1) (value "S") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/e751479a-d08b-4366-92f4-e6d789375ea5"
-      (reference "SW41") (unit 1) (value "X") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW41") (unit 1) (value "X") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/6dcd16d8-c0fd-42ac-8746-6ed2f31549dd"
-      (reference "SW42") (unit 1) (value "LAYER1") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW42") (unit 1) (value "LAYER1") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/d5b30c92-0c2f-4925-b42a-bbdb893f6985"
-      (reference "SW43") (unit 1) (value "E") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW43") (unit 1) (value "E") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/b0b0248c-686d-4bca-b12e-7fa485d5593a"
-      (reference "SW44") (unit 1) (value "D") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW44") (unit 1) (value "D") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/3de9a1c0-8713-4e62-8493-13fda95d83d6"
-      (reference "SW45") (unit 1) (value "C") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW45") (unit 1) (value "C") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/c8415cf4-33b1-45a2-830a-126561647f8f"
-      (reference "SW46") (unit 1) (value "LAYER2") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW46") (unit 1) (value "LAYER2") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/82a9b72d-e7d5-4bfb-b184-d5ef777860a0"
-      (reference "SW47") (unit 1) (value "R") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW47") (unit 1) (value "R") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/b4d56af4-2cd0-4ec5-bc5a-b4743eb71841"
-      (reference "SW48") (unit 1) (value "F") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW48") (unit 1) (value "F") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/9f4cd142-bfff-4974-befb-d4dbbada6a72"
-      (reference "SW49") (unit 1) (value "V") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW49") (unit 1) (value "V") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/8348aeba-a00c-4ff6-bdd0-2f1beb6bb572"
-      (reference "SW50") (unit 1) (value "LEFT_ALT") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW50") (unit 1) (value "LEFT_ALT") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/33dca6be-de4b-4192-857f-f6085f98dd0b"
-      (reference "SW51") (unit 1) (value "T") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW51") (unit 1) (value "T") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/32b8da02-ccf1-48dc-ab69-85dac6201546"
-      (reference "SW52") (unit 1) (value "G") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW52") (unit 1) (value "G") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/10ff4e64-f661-4a18-b924-bc8a44a13a57"
-      (reference "SW53") (unit 1) (value "B") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW53") (unit 1) (value "B") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/dde57e63-c5c4-4a9a-b631-b35a012e5152/76e00e76-3eb3-4a53-895e-17934fbc519c"
-      (reference "SW54") (unit 1) (value "SPACE") (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED")
+      (reference "SW54") (unit 1) (value "SPACE") (footprint "Nour_KB:MX_Choc_1U")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/46e38ee3-1d09-41fa-832b-3f172d8570ac"
       (reference "U1") (unit 1) (value "STM32L082CZYx") (footprint "Nour_KB:ST_WLCSP-49_Die447")
@@ -999,10 +1005,10 @@
       (reference "U3") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core_2")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/5396045f-87a5-44d3-b653-0eb2f51d916a"
-      (reference "U4") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core")
+      (reference "U4") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core_2")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/eb6dbe57-33a1-436a-8fd2-189e17290fd2"
-      (reference "U5") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core")
+      (reference "U5") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core_2")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/655b3d57-ba61-44c3-80d6-d5e990aaf25c"
       (reference "Y1") (unit 1) (value "32.768KHz") (footprint "Nour_KB:ECS327712TR")

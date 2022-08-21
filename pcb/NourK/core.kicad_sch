@@ -6050,7 +6050,7 @@
     (property "Value" "NourK_Core" (id 1) (at 348.1828 103.5812 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Nour_KB:NourKB_Core" (id 2) (at 352.425 64.77 0)
+    (property "Footprint" "Nour_KB:NourKB_Core_2" (id 2) (at 352.425 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 352.425 64.77 0)
