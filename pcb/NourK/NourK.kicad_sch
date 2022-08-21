@@ -470,6 +470,21 @@
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/7fe1c66a-6d19-4af4-b3b0-a185909dd3ed"
       (reference "#PWR0135") (unit 1) (value "VCC") (footprint "")
     )
+    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/4058df7c-79e6-401f-99f0-9f4797ce35b8"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/9c0467e3-8fd0-4ff8-8bc6-3d4d5f50e4d6"
+      (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/b9cbfb2a-4ef8-4f28-a6a9-09321923607b"
+      (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/f25c0cea-84fc-46c9-ba23-36704cb9f78b"
+      (reference "#PWR0139") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/a1688a41-d8f5-44d1-8fc7-bd35c079f55e"
+      (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
+    )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/4361c685-54fa-430b-9049-40fb1281d27b"
       (reference "C1") (unit 1) (value "100uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
@@ -802,6 +817,12 @@
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/c503a590-70c8-4f85-b237-7b1eaf49ccbc"
       (reference "J3") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Nour_KB:GCT_USB4085-GF-A_REVA4")
+    )
+    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/06068c8b-8281-4a4e-8491-c09254e349b9"
+      (reference "J4") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Nour_KB:GCT_USB4085-GF-A_REVA4")
+    )
+    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/85878336-755c-42ae-9431-89b656cc35e8"
+      (reference "J5") (unit 1) (value "SJ-435107RS") (footprint "Nour_KB:CUI_SJ-435107RS")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/ae237750-22ed-4d96-ae72-bcfcbc9884bd"
       (reference "R1") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
