@@ -137,80 +137,12 @@
         )
       )
     )
-    (symbol "power:VCC" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
-      (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Value" "VCC" (id 1) (at 0 3.81 0)
-        (effects (font (size 1.27 1.27)))
-      )
-      (property "Footprint" "" (id 2) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Datasheet" "" (id 3) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_description" "Power symbol creates a global label with name \"VCC\"" (id 5) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (symbol "VCC_0_1"
-        (polyline
-          (pts
-            (xy -0.762 1.27)
-            (xy 0 2.54)
-          )
-          (stroke (width 0) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0 0)
-            (xy 0 2.54)
-          )
-          (stroke (width 0) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0 2.54)
-            (xy 0.762 1.27)
-          )
-          (stroke (width 0) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-      )
-      (symbol "VCC_1_1"
-        (pin power_in line (at 0 0 90) (length 0) hide
-          (name "VCC" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
-        )
-      )
-    )
   )
 
 
   (text "Power symbols" (at 252.73 20.32 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0ab98e8e-ba0f-4fec-b19d-7cb05c611e13)
-  )
-
-  (symbol (lib_id "power:VCC") (at 248.92 27.94 0) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 2b25df22-6c20-4b0e-b7d9-ea3f3f376a49)
-    (property "Reference" "#PWR01" (id 0) (at 248.92 31.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "VCC" (id 1) (at 248.92 24.13 0))
-    (property "Footprint" "" (id 2) (at 248.92 27.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 248.92 27.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 828ff249-197a-46ca-ae36-5b30fa04e49b))
   )
 
   (symbol (lib_id "power:PWR_FLAG") (at 260.35 27.94 180) (unit 1)
@@ -243,22 +175,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0871a38b-1263-412d-bf2a-7af20efa8815))
-  )
-
-  (symbol (lib_id "power:PWR_FLAG") (at 248.92 27.94 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 97725135-a26c-4e56-be6b-8ec2072b85c3)
-    (property "Reference" "#FLG01" (id 0) (at 248.92 29.845 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "PWR_FLAG" (id 1) (at 248.92 32.3834 0))
-    (property "Footprint" "" (id 2) (at 248.92 27.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 248.92 27.94 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c3794a1e-588c-45ae-a217-c6803cd7778f))
   )
 
   (symbol (lib_id "power:VBUS") (at 271.78 27.94 0) (unit 1)
@@ -341,9 +257,6 @@
   )
 
   (symbol_instances
-    (path "/97725135-a26c-4e56-be6b-8ec2072b85c3"
-      (reference "#FLG01") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
     (path "/3f2a1840-7410-4493-8c9c-528f61d452a1"
       (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
     )
@@ -355,9 +268,6 @@
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/d006f327-0902-4d05-a554-4262b207bc03"
       (reference "#FLG0102") (unit 1) (value "PWR_FLAG") (footprint "")
-    )
-    (path "/2b25df22-6c20-4b0e-b7d9-ea3f3f376a49"
-      (reference "#PWR01") (unit 1) (value "VCC") (footprint "")
     )
     (path "/5defae3f-09ec-4a68-b6ca-765f4b4ab3b4"
       (reference "#PWR02") (unit 1) (value "GND") (footprint "")
@@ -478,9 +388,6 @@
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/b9cbfb2a-4ef8-4f28-a6a9-09321923607b"
       (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/f25c0cea-84fc-46c9-ba23-36704cb9f78b"
-      (reference "#PWR0139") (unit 1) (value "VCC") (footprint "")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/a1688a41-d8f5-44d1-8fc7-bd35c079f55e"
       (reference "#PWR0140") (unit 1) (value "GND") (footprint "")

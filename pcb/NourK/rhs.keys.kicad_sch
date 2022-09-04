@@ -3151,7 +3151,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 19604cba-f783-4db3-8194-2c63d7ef399f)
   )
-  (label "KEY.ROW10" (at 69.85 82.55 180)
+  (label "KEY.ROW8" (at 69.85 82.55 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 23095215-a27d-4e64-8fa6-1b8edfad6d5e)
   )
