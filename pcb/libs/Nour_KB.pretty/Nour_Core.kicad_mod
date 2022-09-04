@@ -1,4 +1,4 @@
-(footprint "NourKB_Core_2" (version 20211014) (generator pcbnew)
+(footprint "Nour_Core" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr through_hole)

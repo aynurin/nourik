@@ -5,11 +5,11 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "Nour_KB:NourK_Core_3" (in_bom no) (on_board yes)
+    (symbol "Nour_KB:Nour_Core" (in_bom no) (on_board yes)
       (property "Reference" "U" (id 0) (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "NourK_Core_3" (id 1) (at 0 -2.54 0)
+      (property "Value" "Nour_Core" (id 1) (at 0 -2.54 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "Nour_KB:NourKB_Core_2" (id 2) (at 27.94 -17.78 0)
@@ -18,13 +18,13 @@
       (property "Datasheet" "" (id 3) (at 71.12 3.175 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "NourK_Core_3_0_1"
+      (symbol "Nour_Core_0_1"
         (rectangle (start -36.83 15.24) (end 36.83 -15.24)
           (stroke (width 0.1524) (type default) (color 0 0 0 0))
           (fill (type none))
         )
       )
-      (symbol "NourK_Core_3_1_1"
+      (symbol "Nour_Core_1_1"
         (pin passive line (at 11.43 -17.78 90) (length 2.54)
           (name "KEY_COL2" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
@@ -1026,7 +1026,7 @@
     (uuid f0227685-652f-4c4e-98aa-7ae9eaeece6b)
   )
 
-  (symbol (lib_id "Nour_KB:NourK_Core_3") (at 172.72 104.14 0) (unit 1)
+  (symbol (lib_id "Nour_KB:Nour_Core") (at 172.72 104.14 0) (unit 1)
     (in_bom no) (on_board yes)
     (uuid eb6dbe57-33a1-436a-8fd2-189e17290fd2)
     (property "Reference" "U5" (id 0) (at 173.99 107.95 0)
@@ -1035,9 +1035,7 @@
     (property "Value" "NourK_Core" (id 1) (at 177.8 105.41 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Nour_KB:NourKB_Core_2" (id 2) (at 200.66 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
+    (property "Footprint" "Nour_KB:Nour_Core" (id 2) (at 200.66 121.92 0))
     (property "Datasheet" "" (id 3) (at 243.84 100.965 0)
       (effects (font (size 1.27 1.27)) hide)
     )

@@ -939,13 +939,13 @@
       (reference "U2") (unit 1) (value "AP2112K-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
     (path "/a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72/da4781ce-af35-4f7c-9d9a-df11ab48484a"
-      (reference "U3") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core_2")
+      (reference "U3") (unit 1) (value "NourK_Core") (footprint "Nour_KB:Nour_Core")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/5396045f-87a5-44d3-b653-0eb2f51d916a"
-      (reference "U4") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core_2")
+      (reference "U4") (unit 1) (value "NourK_Core") (footprint "Nour_KB:Nour_Core")
     )
     (path "/72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd/eb6dbe57-33a1-436a-8fd2-189e17290fd2"
-      (reference "U5") (unit 1) (value "NourK_Core") (footprint "Nour_KB:NourKB_Core_2")
+      (reference "U5") (unit 1) (value "NourK_Core") (footprint "Nour_KB:Nour_Core")
     )
     (path "/a6af0249-c8eb-4b80-99e2-1d85a2fc3025/655b3d57-ba61-44c3-80d6-d5e990aaf25c"
       (reference "Y1") (unit 1) (value "32.768KHz") (footprint "Nour_KB:ECS327712TR")

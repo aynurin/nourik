@@ -31,3 +31,4 @@ fp-info-cache
 
 # Project specific
 /docs/datasheets
+/pcb/*.zip

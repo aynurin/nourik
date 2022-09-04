@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "Nour_KB")(type "KiCad")(uri "${KIPRJMOD}/../Libs/Nour_KB.pretty")(options "")(descr ""))
-  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/../Libs/Keebio-Parts.pretty")(options "")(descr ""))
-)
