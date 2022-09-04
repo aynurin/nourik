@@ -349,7 +349,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Nour-Valkyrie.kicad_pro",
+    "filename": "Nour-Core.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -382,62 +382,34 @@
         "microvia_drill": 0.1,
         "name": "LED",
         "nets": [
-          "/lhs/LHS LEDs/LED.CS_COL1",
-          "/lhs/LHS LEDs/LED.CS_COL10",
-          "/lhs/LHS LEDs/LED.CS_COL11",
-          "/lhs/LHS LEDs/LED.CS_COL12",
-          "/lhs/LHS LEDs/LED.CS_COL13",
-          "/lhs/LHS LEDs/LED.CS_COL14",
-          "/lhs/LHS LEDs/LED.CS_COL15",
-          "/lhs/LHS LEDs/LED.CS_COL16",
-          "/lhs/LHS LEDs/LED.CS_COL2",
-          "/lhs/LHS LEDs/LED.CS_COL3",
-          "/lhs/LHS LEDs/LED.CS_COL4",
-          "/lhs/LHS LEDs/LED.CS_COL5",
-          "/lhs/LHS LEDs/LED.CS_COL6",
-          "/lhs/LHS LEDs/LED.CS_COL7",
-          "/lhs/LHS LEDs/LED.CS_COL8",
-          "/lhs/LHS LEDs/LED.CS_COL9",
-          "/lhs/LHS LEDs/LED.SW_BLUE1",
-          "/lhs/LHS LEDs/LED.SW_BLUE2",
-          "/lhs/LHS LEDs/LED.SW_BLUE3",
-          "/lhs/LHS LEDs/LED.SW_BLUE4",
-          "/lhs/LHS LEDs/LED.SW_GREEN1",
-          "/lhs/LHS LEDs/LED.SW_GREEN2",
-          "/lhs/LHS LEDs/LED.SW_GREEN3",
-          "/lhs/LHS LEDs/LED.SW_GREEN4",
-          "/lhs/LHS LEDs/LED.SW_RED1",
-          "/lhs/LHS LEDs/LED.SW_RED2",
-          "/lhs/LHS LEDs/LED.SW_RED3",
-          "/lhs/LHS LEDs/LED.SW_RED4",
-          "/rhs/RHS LEDs/LED.CS_COL1",
-          "/rhs/RHS LEDs/LED.CS_COL10",
-          "/rhs/RHS LEDs/LED.CS_COL11",
-          "/rhs/RHS LEDs/LED.CS_COL12",
-          "/rhs/RHS LEDs/LED.CS_COL13",
-          "/rhs/RHS LEDs/LED.CS_COL14",
-          "/rhs/RHS LEDs/LED.CS_COL15",
-          "/rhs/RHS LEDs/LED.CS_COL16",
-          "/rhs/RHS LEDs/LED.CS_COL2",
-          "/rhs/RHS LEDs/LED.CS_COL3",
-          "/rhs/RHS LEDs/LED.CS_COL4",
-          "/rhs/RHS LEDs/LED.CS_COL5",
-          "/rhs/RHS LEDs/LED.CS_COL6",
-          "/rhs/RHS LEDs/LED.CS_COL7",
-          "/rhs/RHS LEDs/LED.CS_COL8",
-          "/rhs/RHS LEDs/LED.CS_COL9",
-          "/rhs/RHS LEDs/LED.SW_BLUE1",
-          "/rhs/RHS LEDs/LED.SW_BLUE2",
-          "/rhs/RHS LEDs/LED.SW_BLUE3",
-          "/rhs/RHS LEDs/LED.SW_BLUE4",
-          "/rhs/RHS LEDs/LED.SW_GREEN1",
-          "/rhs/RHS LEDs/LED.SW_GREEN2",
-          "/rhs/RHS LEDs/LED.SW_GREEN3",
-          "/rhs/RHS LEDs/LED.SW_GREEN4",
-          "/rhs/RHS LEDs/LED.SW_RED1",
-          "/rhs/RHS LEDs/LED.SW_RED2",
-          "/rhs/RHS LEDs/LED.SW_RED3",
-          "/rhs/RHS LEDs/LED.SW_RED4"
+          "/core/LED.CS_COL1",
+          "/core/LED.CS_COL10",
+          "/core/LED.CS_COL11",
+          "/core/LED.CS_COL12",
+          "/core/LED.CS_COL13",
+          "/core/LED.CS_COL14",
+          "/core/LED.CS_COL15",
+          "/core/LED.CS_COL16",
+          "/core/LED.CS_COL2",
+          "/core/LED.CS_COL3",
+          "/core/LED.CS_COL4",
+          "/core/LED.CS_COL5",
+          "/core/LED.CS_COL6",
+          "/core/LED.CS_COL7",
+          "/core/LED.CS_COL8",
+          "/core/LED.CS_COL9",
+          "/core/LED.SW_BLUE1",
+          "/core/LED.SW_BLUE2",
+          "/core/LED.SW_BLUE3",
+          "/core/LED.SW_BLUE4",
+          "/core/LED.SW_GREEN1",
+          "/core/LED.SW_GREEN2",
+          "/core/LED.SW_GREEN3",
+          "/core/LED.SW_GREEN4",
+          "/core/LED.SW_RED1",
+          "/core/LED.SW_RED2",
+          "/core/LED.SW_RED3",
+          "/core/LED.SW_RED4"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -458,7 +430,8 @@
         "name": "PWR",
         "nets": [
           "GND",
-          "VBUS"
+          "VBUS",
+          "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -528,28 +501,8 @@
       ""
     ],
     [
-      "72be4c31-b8b6-43c2-9f32-eac8e2b2c9dd",
-      "lhs"
-    ],
-    [
-      "a3a5dde2-8430-4bc8-a6b1-0178fc9f3c72",
-      "rhs"
-    ],
-    [
-      "65a5d9d6-1b4d-49ef-bf0d-c44b680e5b9d",
-      "RHS Keys"
-    ],
-    [
-      "1c89782d-074f-4e09-8335-80c0fa7d6d5b",
-      "RHS LEDs"
-    ],
-    [
-      "24cae634-2cfc-4504-a6b0-3a5c7164d797",
-      "LHS LEDs"
-    ],
-    [
-      "dde57e63-c5c4-4a9a-b631-b35a012e5152",
-      "LHS Keys"
+      "a6af0249-c8eb-4b80-99e2-1d85a2fc3025",
+      "core"
     ]
   ],
   "text_variables": {}
