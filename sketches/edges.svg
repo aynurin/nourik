@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1619"
+   sodipodi:docname="edges.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1621"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94242064"
+     inkscape:cx="505.61287"
+     inkscape:cy="644.61662"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1616">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4117"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,1.0523693,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,1,1,0,1.1601628,0,1 @ F,0,1,1,0,1.1601628,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,1.1601628,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1"
+       unit="mm"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4021-6"
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:0.199999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 103.37394,95.614002 c -0.1398,0.979001 -0.70667,1.525472 -2,1.490207 H 86.374059 c -1.104569,0 -2,0.895431 -2,2 v 1.499921 c 0,1.10457 -0.895432,2 -2,1.99999 l -50.49951,-2.2e-4 c -1.104568,-10e-6 -2,0.89542 -2,1.99999 V 120.104 c 0,1.10457 -0.895431,2 -2,2 h -0.05608 c -1.104569,0 -2,0.89543 -2,2 v 15.7998 c 0,1.10457 0.895431,2 2,2 h 14.74666 c 1.104569,0 2,0.89543 2,2 v 15.00039 c 0,1.10457 0.895431,2 2,2 h 16.80958 c 1.104569,0 2,0.89543 2,2 v 14.99974 c 0,1.10457 0.895429,2 2,2.00001 l 18.79936,7e-5 c 1.104568,1e-5 2,-0.89542 2,-1.99999 v -1.00021 c 0,-1.10457 0.895431,-2 2,-2 h 14.999871 c 1.10457,0 1.86012,-0.59172 2,-1.57066 0.13988,-0.97895 0.77224,-1.48703 1.68705,-1.42915 l 11.51302,1e-4 c 1.10457,1e-5 2,0.89545 2,2.00002 v 2.49987 c 0,1.10457 0.89543,2 2,2 h 18.20827 c 0.58121,0 1.14431,0.34482 1.29171,1.05237 0.1474,0.70755 0.70184,0.979 1.46961,0.94749 l 21.33097,-1.9e-4 c 1.10457,-1e-5 2,-0.89545 2,-2.00002 v -17.55707 c 0.003,-0.356 -0.24838,-0.63916 -0.45928,-0.74396 -0.321,-0.15951 -0.54066,-0.45711 -0.54066,-0.771 v -56.22789 c 0,-1.10457 -0.89543,-1.99999 -2,-1.99998 l -19.18453,1.8e-4 c -0.68661,1e-5 -1.10332,-0.22245 -1.3213,-1.02959 -0.21798,-0.80714 -0.71878,-0.989057 -1.72381,-0.970258 l -15.27099,3.3e-5 c -1.10457,2e-6 -2,-0.895427 -2,-1.999996 v -1.000215 c 0,-1.10457 -0.89543,-2.000001 -2,-2.000002 l -18.80006,-1.5e-5 c -1.22609,-10e-7 -1.8602,0.531124 -2,1.510125 z"
+       sodipodi:nodetypes="zcccccccccccccccccccccccccczcssssszcsscssssszcsssssz" />
+    <path
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-6-0"
+       style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.199999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m -105.37445,96.103695 v 3.000333 h 18.999877 v 5.499922 c 18.166678,0 36.333355,0 54.500033,0 v 19.5001 h 4.056083 v 15.79956 H -46.565116 V 158.904 h -20.809583 v 18.99987 h -18.799886 v -5.00021 h -18.999875 v -2.99982 h -19.20038 v 6.49986 h -21.49998 v 1.99988 h -20.79976 V 162.1038 h 0.99994 c 0,-19.66667 0,-39.33335 0,-59.00002 h 22.49992 v -1.99987 h 18.99987 v -5.000215 z"
+       transform="scale(-1,1)"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+       sodipodi:insensitive="true" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.199999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-6-0-0"
+       width="25.799999"
+       height="28.556683"
+       x="-165.6747"
+       y="204.87236"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.200001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-6-0-5"
+       width="21.179852"
+       height="64.487534"
+       x="-143.17468"
+       y="202.87236"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.199998;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-6-0-54-5"
+       width="33.779922"
+       height="50.793095"
+       x="-90.245758"
+       y="206.37236"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-6-0-54-3"
+       width="27.077883"
+       height="22.883392"
+       x="-58.952591"
+       y="206.37236"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-6-0-54-7"
+       width="18.799999"
+       height="17.799999"
+       x="-124.17469"
+       y="197.87236"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.199999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-6-0-54-6"
+       width="22.909958"
+       height="61.555069"
+       x="-109.28465"
+       y="200.87236"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-2-6-7-4-4"
+       width="16.300001"
+       height="20.800001"
+       x="-280.17233"
+       y="-166.67468"
+       transform="matrix(0,-1,-1,0,0,0)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-2-6-7-43-9"
+       width="21.296249"
+       height="27.799999"
+       x="-260.67233"
+       y="-74.365036"
+       transform="matrix(0,-1,-1,0,0,0)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-2-6-7-43-0-4"
+       width="15.8"
+       height="29.799999"
+       x="-241.67236"
+       y="-57.618347"
+       transform="matrix(0,-1,-1,0,0,0)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-6-8-0-7-4-3"
+       width="29.6007"
+       height="16.300001"
+       x="-153.97539"
+       y="261.87234"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-6-8-0-7-5"
+       width="27.403067"
+       height="59.00676"
+       x="-126.82079"
+       y="212.66562"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-6-8-0-7-2"
+       width="23.589144"
+       height="22.574903"
+       x="-105.17471"
+       y="252.09746"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.199999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-6-8-0-7-54"
+       width="18.799999"
+       height="25.692518"
+       x="-86.174698"
+       y="253.97984"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.199999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect51958-3-6-7-5-3-5-9-7-3-6-8-2-1-7-7"
+       width="25.799999"
+       height="35.153736"
+       x="-165.6747"
+       y="230.51865"
+       transform="scale(-1,1)"
+       inkscape:export-filename="../docs/rfq-1a/assets/nourk-layout.png"
+       inkscape:export-xdpi="149.96938"
+       inkscape:export-ydpi="149.96938" />
+    <path
+       id="path4021"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.199999;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 103.37394,94.103873 v 3.000334 H 84.374063 v 5.499923 l -54.499511,-2.4e-4 V 122.104 h -4.056083 v 19.7998 h 18.746659 v 19.00039 h 20.809579 v 18.99974 l 22.799357,9e-5 v -5.00021 h 18.999876 v -2.99983 l 15.20007,1.4e-4 v 6.49987 h 21.49998 v 1.99988 l 24.80058,-2.3e-4 V 160.104 h -0.99994 v -59.00028 l -22.50063,2.1e-4 v -1.999864 l -19,4.1e-5 v -5.000215 z"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+       sodipodi:insensitive="true" />
+  </g>
+</svg>
