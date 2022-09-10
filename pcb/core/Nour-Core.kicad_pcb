@@ -3533,6 +3533,7 @@
   (segment (start 118.29 137.64) (end 115.89 137.64) (width 0.2) (layer "In2.Cu") (net 66) (tstamp afe662a7-1b9f-454b-a48e-f0aa547355c1))
   (segment (start 118.29 137.64) (end 119.65 139) (width 0.2) (layer "In2.Cu") (net 66) (tstamp b1acb0f4-8f93-4c7b-966d-3fdf29d932c5))
   (segment (start 115.89 137.64) (end 115.75 137.5) (width 0.2) (layer "In2.Cu") (net 66) (tstamp fa99f22f-8e48-4495-b43a-348633d02956))
+  (segment (start 113.55 135.75) (end 113.56 135.74) (width 0.2) (layer "F.Cu") (net 67) (tstamp 20b9adda-1232-4777-ab59-3bdb38cdb152))
   (via blind (at 113.55 135.75) (size 0.22) (drill 0.12) (layers "F.Cu" "In1.Cu") (net 67) (tstamp 7eedc958-aaeb-4825-944f-5b087f6954d7))
   (segment (start 113.55 134.843468) (end 112.75 134.043468) (width 0.2) (layer "In1.Cu") (net 67) (tstamp 19181e7e-60ea-447b-8093-799313a9b8ec))
   (segment (start 113.55 135.75) (end 113.55 134.843468) (width 0.2) (layer "In1.Cu") (net 67) (tstamp 90221179-b2d2-4328-a279-c26972a6d8b7))
